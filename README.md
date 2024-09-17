@@ -6,22 +6,18 @@
 - 📫 How to reach me: newtonkagimbi11@gmail.com
 
 ## Tools & Technologies
-1. Asynchronous communication using Apache Kafka
-2. SpringBoot microservices
-3. Relational (MySQL and PostgreSQL) and NoSQL (MongoDB) databases; Object-Relational Mapping using Hibernate
-4. Docker containerization
-5. Swagger/OpenAPI for API documentation
-6. RESTful Web Services
-7. SpringBoot Testing using JUnit, Mockito, MockMVC and TestContainers
-8. Versin control using Git
-9. Service discovery using Netflix Eureka
-10. Circuit-breaking using Resilience4J
-11. Distributed tracing using Micrometer, Brave and Zipkin
-12. Spring Security
-13. Angular reactive programming using RxJs
-14. Angular Material
-15. Angular testing using Jasmine and Karma
-16. Front-end application deployment and hosting using Netlify
-17. Setting up build pipeline using Github Actions
-18. Agile methodologies ...
+1. SpringBoot microservices
+2. Relational (MySQL and PostgreSQL) and NoSQL (MongoDB) databases; Object-Relational Mapping using Hibernate
+3. Docker containerization
+4. Angular reactive programming using RxJs
+5. RESTful Web Services
+6. SpringBoot Testing using JUnit, Mockito, MockMVC and TestContainers
+7. Versin control using Git
+8. Spring Security
+9. Asynchronous communication using Apache Kafka
+10. Angular Material
+11. Angular testing using Jasmine and Karma
+12. Front-end application deployment and hosting using Netlify
+13. Setting up build pipeline using Github Actions and Jenkins
+14. Agile methodologies ...
 and many more!
