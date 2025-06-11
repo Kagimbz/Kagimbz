@@ -1,7 +1,6 @@
 ## Overview
 - 👋 Hi, I’m Kagimbi
 - 👀 I’m interested in web application development, with a primary focus on backend development using Java (SpringBoot), while also leveraging Angular for frontend tasks
-- 🌱 I’m currently learning cloud technology (AWS)
 - 💞️ I’m looking to collaborate on exciting projects that tackle real-world problems and drive innovative solutions
 - 📫 How to reach me: newtonkagimbi11@gmail.com
 
